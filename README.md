@@ -25,6 +25,8 @@ No diretório Backend, roda Api com arquivo ./server.js, rodar o comando:
 
 Abra [http://localhost:3000] para ver projeto React.
 
-(http://localhost:8080) para ver dados Api do MongoDB.
+(http://localhost:8080/produtos) para ver dados Api do MongoDB.
+(http://localhost:8080/comentarios) para ver dados Api do MongoDB.
+(http://localhost:8080/pedidos) para ver dados Api do MongoDB.
 
 Recode Pro 2021 by dgsdev
