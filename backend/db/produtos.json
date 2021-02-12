@@ -1,0 +1,146 @@
+[{
+  "_id": {
+    "$oid": "6026a9a8d0ce192c8440c75a"
+  },
+  "descricao": "Geladeira Frost Free Brastemp Side Inverse 540L",
+  "preco": 6389.55,
+  "preco_venda": 5019.99,
+  "imagem": "./assets/geladeiraprata.jpeg",
+  "categoria": "Geladeiras"
+},{
+  "_id": {
+    "$oid": "6026b14ad0ce192c8440c75b"
+  },
+  "descricao": "Geladeira Frost Free Brastemp Branca 375 Litros",
+  "preco": 2068.6,
+  "preco_venda": 1910.9,
+  "imagem": "./assets/geladeira.jpg",
+  "categoria": "Geladeiras"
+},{
+  "_id": {
+    "$oid": "6026b1b3d0ce192c8440c75e"
+  },
+  "descricao": "Geladeira Frost Free Consul Prata 340 Litros",
+  "preco": 2199,
+  "preco_venda": 2069,
+  "imagem": "./assets/geladeiraprata2.jpg",
+  "categoria": "Geladeiras"
+},{
+  "_id": {
+    "$oid": "6026b1bdd0ce192c8440c75f"
+  },
+  "descricao": "Fogão 4 Bocas Consul Inox com Mesa de Vidro",
+  "preco": 1299,
+  "preco_venda": 1129,
+  "imagem": "./assets/FogãoPequeno.jpeg",
+  "categoria": "Fogões"
+},{
+  "_id": {
+    "$oid": "6026b1c8d0ce192c8440c760"
+  },
+  "descricao": "Fogão de Piso 4 Bocas Atlas Monaco com Acendimento Automático",
+  "preco": 600,
+  "preco_venda": 519.7,
+  "imagem": "./assets/fogão.jpeg",
+  "categoria": "Fogões"
+},{
+  "_id": {
+    "$oid": "6026b1e4d0ce192c8440c761"
+  },
+  "descricao": "Micro-ondas Consul 32 Litros inox",
+  "preco": 580,
+  "preco_venda": 409.88,
+  "imagem": "./assets/micro.jpeg",
+  "categoria": "Microondas"
+},{
+  "_id": {
+    "$oid": "6026b1f2d0ce192c8440c762"
+  },
+  "descricao": "Microondas 25L Espelhado Philco",
+  "preco": 508.7,
+  "preco_venda": 464.53,
+  "imagem": "./assets/micro2.jpeg",
+  "categoria": "Microondas"
+},{
+  "_id": {
+    "$oid": "6026b204d0ce192c8440c763"
+  },
+  "id_categorias": "3",
+  "descricao": "Forno de Microondas Eletrolux 20L",
+  "preco": 1299,
+  "preco_venda": 1129,
+  "imagem": "./assets/microondas.jpeg",
+  "categoria": "Microondas"
+},{
+  "_id": {
+    "$oid": "6026b212d0ce192c8440c764"
+  },
+  "descricao": "Lavadoura de Roupas Brastemp 11KG com Turbo Performance Branca",
+  "preco": 1699,
+  "preco_venda": 1214.1,
+  "imagem": "./assets/lavalouça1.jpeg",
+  "categoria": "Lavadouras de Roupas"
+},{
+  "_id": {
+    "$oid": "6026b21fd0ce192c8440c765"
+  },
+  "descricao": "Lavadoura de Roupas",
+  "preco": 2399,
+  "preco_venda": 2179.9,
+  "imagem": "./assets/lavalouça2.jpeg",
+  "categoria": "Lavadouras de Roupas"
+},{
+  "_id": {
+    "$oid": "6026b23cd0ce192c8440c766"
+  },
+  "descricao": "Lava-louça Eletrolux Inox com 10 serviços, 06 Programas de Lavagem e Painel Blue Touch",
+  "preco": 3599,
+  "preco_venda": 2799.9,
+  "imagem": "./assets/lavadora.jpeg",
+  "categoria": "Lava-louças"
+},{
+  "_id": {
+    "$oid": "6026b246d0ce192c8440c767"
+  },
+  "descricao": "Lava Louça Compacta, 8 Serviços Branca 127V",
+  "preco": 1970.5,
+  "preco_venda": 1730.61,
+  "imagem": "./assets/secadora.jpeg",
+  "categoria": "Lava-louças"
+},{
+  "_id": {
+    "$oid": "6026f5cfd0ce192c8440c772"
+  },
+  "descricao": "Notebook Dell i7 16gb 1TB",
+  "preco": 10399,
+  "preco_venda": 9150.99,
+  "imagem": "./assets/dell.jpg",
+  "categoria": "Computadores"
+},{
+  "_id": {
+    "$oid": "6026fc53445c9f0e24b18ae7"
+  },
+  "descricao": "Dell i9 32gb 2TB",
+  "preco": 15399,
+  "preco_venda": 13150,
+  "imagem": "./assets/dell.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6026fc8d445c9f0e24b18ae8"
+  },
+  "descricao": "Dell i5 8gb 500GB",
+  "preco": 6599,
+  "preco_venda": 5179,
+  "imagem": "./assets/dell.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6026fca2445c9f0e24b18ae9"
+  },
+  "descricao": "Dell i3 6gb 500GB",
+  "preco": 4200,
+  "preco_venda": 2850,
+  "imagem": "./assets/dell.jpg",
+  "__v": 0
+}]

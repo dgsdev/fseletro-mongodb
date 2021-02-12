@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6026ea19d0ce192c8440c769"
+  },
+  "cliente": "Douglas",
+  "endereco": "RUA B",
+  "telefone": "11-55552-9999",
+  "produto": "Micro-ondas Consul 32 Litros inox",
+  "preco": 2500,
+  "quantidade": 1,
+  "preco_total": 2500,
+  "dia": "2020-12-06T03:48:25.000Z"
+},{
+  "_id": {
+    "$oid": "6026ea3bd0ce192c8440c76a"
+  },
+  "cliente": "Mayk",
+  "endereco": "Rua Brasil 292",
+  "telefone": "11-98888-5555",
+  "produto": "Fogão 4 Bocas Consul Inox com Mesa de Vidro",
+  "preco": 1700,
+  "quantidade": 2,
+  "preco_total": 3400,
+  "dia": "2020-12-06T03:48:25.000Z"
+},{
+  "_id": {
+    "$oid": "6026ea75d0ce192c8440c76c"
+  },
+  "cliente": "DanyBoy",
+  "endereco": "RUA Israel",
+  "telefone": "11-01111-9999",
+  "produto": "Micro-ondas Consul 32 Litros inox",
+  "preco": 5000,
+  "quantidade": 4,
+  "preco_total": 20000,
+  "dia": "2021-01-14T22:37:14.000Z"
+}]

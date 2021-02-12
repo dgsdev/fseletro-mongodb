@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "6026eba9d0ce192c8440c76d"
+  },
+  "nome": "David",
+  "email": "david@dgsdev.com",
+  "msg": "Tudo bem? Parcela em 100 parcelas o PS5? ;)",
+  "data": "2020-10-31T03:32:29.000Z"
+},{
+  "_id": {
+    "$oid": "6026ebc3d0ce192c8440c76e"
+  },
+  "nome": "Daniel",
+  "email": "daniel@dgsdev.com",
+  "msg": "Olá tudo bem? Aceita pagamento boleto?",
+  "data": "2020-11-03T04:46:39.000Z"
+},{
+  "_id": {
+    "$oid": "6026fb4c445c9f0e24b18ae3"
+  },
+  "data": {
+    "$date": "2021-02-12T22:03:08.571Z"
+  },
+  "nome": "Mongo",
+  "email": "mongo@mongo.com",
+  "msg": "mongo mongo mongo OK! :)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60270f4e9cb77323f4c4a9c8"
+  },
+  "data": {
+    "$date": "2021-02-12T22:44:39.388Z"
+  },
+  "nome": "Mongo",
+  "email": "mongo@mongo.com",
+  "msg": "Lailson! :)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60270f779cb77323f4c4a9c9"
+  },
+  "data": {
+    "$date": "2021-02-12T22:44:39.388Z"
+  },
+  "__v": 0
+}]
